@@ -1,2 +1,3 @@
-# case
-Colored Figures painting
+#Case
+Colored Figures painting, using their defs
+
